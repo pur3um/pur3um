@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=168&animation=fadeIn&color=gradient&fontColor=0C090A&text=Pureum✨&fontSize=55&fontAlign=60&fontAlignY=45&desc=Hello%20I'm&descSize=30&descAlign=35&descAlignY=48)
 
 <a href="https://pur3um.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Pages-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://velog.io/@reum030" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
